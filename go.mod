@@ -1,3 +1,3 @@
-module golang_tutorial_goroutine
+module golang_goroutine
 
 go 1.18
